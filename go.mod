@@ -1,4 +1,4 @@
-module mainprotobuf
+module protobuf
 
 go 1.25.0
 

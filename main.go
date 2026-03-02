@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"mainprotobuf/userpb"
+	"protobuf/userpb"
 )
 
 func main() {
